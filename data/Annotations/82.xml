@@ -1,0 +1,114 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>82.png</filename>
+    <path>Panoramic-X-Ray-PascalVOC-export/Annotations/82.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2800</width>
+        <height>1050</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>754.5599609375</xmin>
+        <ymin>180.74883716862377</ymin>
+        <xmax>900.4800781250001</xmax>
+        <ymax>482.9440372746165</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1059.2</xmin>
+        <ymin>198.67568597560975</ymin>
+        <xmax>1166.7201171875001</xmax>
+        <ymax>470.139159225836</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1980.8000000000002</xmin>
+        <ymin>252.45623239656774</ymin>
+        <xmax>2154.880078125</xmax>
+        <ymax>587.9439981972299</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1819.5201171875</xmin>
+        <ymin>262.7000762195122</ymin>
+        <xmax>2060.16015625</xmax>
+        <ymax>582.8220274390244</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1645.4400390625</xmin>
+        <ymin>498.30985185576645</ymin>
+        <xmax>1806.7201171875001</xmax>
+        <ymax>844.0416568663062</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1566.080078125</xmin>
+        <ymin>477.822066516411</ymin>
+        <xmax>1660.8</xmax>
+        <ymax>831.2367788175256</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1072</xmin>
+        <ymin>472.7000957582055</ymin>
+        <xmax>1153.9201171875</xmax>
+        <ymax>800.5049542682927</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1179.5201171875</xmin>
+        <ymin>452.21231041885005</ymin>
+        <xmax>1261.4400390625</xmax>
+        <ymax>792.8221446711843</ymax>
+    </bndbox>
+</object><object>
+    <name>tooth</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1271.6800781250001</xmin>
+        <ymin>454.7732469512195</ymin>
+        <xmax>1345.9201171875002</xmax>
+        <ymax>792.8221446711843</ymax>
+    </bndbox>
+</object>
+</annotation>
